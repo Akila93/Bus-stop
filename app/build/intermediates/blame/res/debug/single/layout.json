@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_2.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\layout_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus_row.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\bus_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus_selection.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\bus_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\route_row.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\route_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\route_selection.xml",
+        "source": "C:\\Users\\Akila_chathuranga\\AndroidStudioProjects\\Bustop\\app\\src\\main\\res\\layout\\route_selection.xml"
+    }
+]

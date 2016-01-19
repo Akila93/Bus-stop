@@ -1,0 +1,2 @@
+C:\Users\Akila_chathuranga\AndroidStudioProjects\Bustop\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\bustop\BustopSelection$override.class
+C:\Users\Akila_chathuranga\AndroidStudioProjects\Bustop\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
